@@ -1,0 +1,12 @@
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\WebApp.dll.config
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\WebApp.dll
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\WebApp.pdb
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\obj\Debug\WebApp.dll
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\obj\Debug\WebApp.pdb
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\EntityFramework.dll
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\EntityFramework.SqlServer.dll
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\EntityFramework.xml
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\bin\EntityFramework.SqlServer.xml
+D:\Projects\Particular\@IndigoSoft\LerArquivoTxt\WebApp\obj\Debug\WebApp.csproj.CopyComplete
